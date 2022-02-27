@@ -1,0 +1,27 @@
+@font-face {
+    font-family: "Asap";
+    font-weight: bold;
+    font-style: normal;
+    src: url("Asap-Bold.ttf");
+}
+
+@font-face {
+    font-family: "Asap";
+    font-weight: bold;
+    font-style: italic;
+    src: url("Asap-BoldItalic.ttf");
+}
+
+@font-face {
+    font-family: "Asap";
+    font-weight: normal;
+    font-style: italic;
+    src: url("Asap-Italic.ttf");
+}
+
+@font-face {
+    font-family: "Asap";
+    font-weight: normal;
+    font-style: normal;
+    src: url("Asap-Regular.ttf");
+}
